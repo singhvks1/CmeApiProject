@@ -1,0 +1,7 @@
+C:\Users\singh\Documents\GitProject\CME\CmeApiProject\obj\Debug\netcoreapp3.1\CmeApiProject.csproj.AssemblyReference.cache
+C:\Users\singh\Documents\GitProject\CME\CmeApiProject\obj\Debug\netcoreapp3.1\CmeApiProject.AssemblyInfoInputs.cache
+C:\Users\singh\Documents\GitProject\CME\CmeApiProject\obj\Debug\netcoreapp3.1\CmeApiProject.AssemblyInfo.cs
+C:\Users\singh\Documents\GitProject\CME\CmeApiProject\obj\Debug\netcoreapp3.1\CmeApiProject.csproj.CoreCompileInputs.cache
+C:\Users\singh\Documents\GitProject\CME\CmeApiProject\obj\Debug\netcoreapp3.1\CmeApiProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\singh\Documents\GitProject\CME\CmeApiProject\obj\Debug\netcoreapp3.1\CmeApiProject.RazorAssemblyInfo.cache
+C:\Users\singh\Documents\GitProject\CME\CmeApiProject\obj\Debug\netcoreapp3.1\CmeApiProject.RazorAssemblyInfo.cs
